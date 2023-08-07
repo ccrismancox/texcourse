@@ -9,3 +9,5 @@ auto/
 *.toc
 *.tex
 *.bib.bak
+*.snm
+*.nav
