@@ -1,0 +1,11 @@
+additional_files.zip
+auto/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex*
+*.toc
+*.tex
+*.bib.bak
